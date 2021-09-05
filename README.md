@@ -1,9 +1,23 @@
 ### Hi there 👋
 
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png">
+<img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png">
+<img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Sales-Cloud-Consultant.png">
+<img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Service-Cloud-Consultant.png">
+<img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Experience-Cloud-Consultant.png">
+<img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Sharing-and-Visibility-Designer.png">
+<img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Marketing-Cloud-Administrator.png"> 
+<img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Marketing-Cloud-Email-Specialist.png">
+</div>
+
 <!--
 **gooliveira/gooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+https://shields.io/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooliveira&layout=compact&langs_count=7&theme=dracula"/>
+
 
 
 
@@ -34,6 +49,11 @@ Here are some ideas to get you started:
         <img align="center" alt="Giba-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
         <img align="center" alt="Giba-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
           <img align="center" alt="Giba-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="Giba-Github" height="30" width="40" src="https://trailhead.salesforce.com/assets/ranks/ranger-4ff0ee9f9279c163c5fca383a6fdc3b1a20fb9a22049483337e06e3a20b7a42d.png">
+
+
+
+https://trailhead.salesforce.com/assets/ranks/ranger-4ff0ee9f9279c163c5fca383a6fdc3b1a20fb9a22049483337e06e3a20b7a42d.png
   
   
   [Status](https://github-readme-stats.vercel.app/api?username=gooliveira) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gooliveira&layout=compact)](link_do_seu_perfil)
@@ -45,5 +65,6 @@ Here are some ideas to get you started:
 </div>
 
 -->
+
 
 
