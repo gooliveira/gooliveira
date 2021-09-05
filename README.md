@@ -2,6 +2,11 @@
 
 
 <div style="display: inline_block"><br>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=gooliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues,contribs&hide_border=true&custom_title= Gilberto Oliveira "/>
+</div>
+
+
+<div style="display: inline_block"><br>
 <img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png">
 <img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png">
 <img align="center" alt="Giba-Github" height="80" width="80" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Sales-Cloud-Consultant.png">
@@ -16,8 +21,15 @@
 **gooliveira/gooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Links
 https://shields.io/
+https://github.com/Ileriayo/markdown-badges#developerforums
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://github.com/anuraghazra/github-readme-stats#common-options
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#objects
+https://emojipedia.org/search/?q=bag
+https://dev.to/envoy_/150-badges-for-github-pnk
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,9 +40,9 @@ https://shields.io/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gooliveira&show_icons=true&theme=blue-blue&include_all_commits=true&count_private=true"/>
 
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooliveira&langs_count=1"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gooliveira&show_icons=true&theme=blue-blue&include_all_commits=true&count_private=true"/>
 
