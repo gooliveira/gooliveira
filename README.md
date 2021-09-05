@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooliveira&layout=compact&langs_count=7&theme=dracula"/>
 
 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gooliveira&show_icons=true&theme=blue-blue&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooliveira&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -39,9 +40,10 @@ Here are some ideas to get you started:
 
   
   
-  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gooliveira/LPs">
   
 </div>
 
 -->
+
 
