@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T21:58:42.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="V_WjM8YYoidTY9rEVUlO" version="16.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-20T22:05:03.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="DliIvQRabgabbXFSi6DD" version="16.2.7" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2142" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,7 +279,7 @@
         <mxCell id="vha5stMU4jmWcUVJAuMZ-30" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="vha5stMU4jmWcUVJAuMZ-1" source="vha5stMU4jmWcUVJAuMZ-23" target="vha5stMU4jmWcUVJAuMZ-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="320" />
+              <mxPoint x="710" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -302,25 +302,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vha5stMU4jmWcUVJAuMZ-23" value="Nivel Verde" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="vha5stMU4jmWcUVJAuMZ-1">
-          <mxGeometry x="825" y="256" width="90" height="90" as="geometry" />
+          <mxGeometry x="825" y="442" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vha5stMU4jmWcUVJAuMZ-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vha5stMU4jmWcUVJAuMZ-1" source="vha5stMU4jmWcUVJAuMZ-29" target="vha5stMU4jmWcUVJAuMZ-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="460" />
+              <mxPoint x="710" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vha5stMU4jmWcUVJAuMZ-29" value="Recupera Token" style="whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="vha5stMU4jmWcUVJAuMZ-1">
-          <mxGeometry x="650" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="532" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vha5stMU4jmWcUVJAuMZ-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="vha5stMU4jmWcUVJAuMZ-1" source="vha5stMU4jmWcUVJAuMZ-43" target="vha5stMU4jmWcUVJAuMZ-29">
+        <mxCell id="vha5stMU4jmWcUVJAuMZ-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="vha5stMU4jmWcUVJAuMZ-1" source="vha5stMU4jmWcUVJAuMZ-43" target="vha5stMU4jmWcUVJAuMZ-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="440" as="sourcePoint" />
             <mxPoint x="400" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="380" />
+              <mxPoint x="450" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -343,7 +343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vha5stMU4jmWcUVJAuMZ-37" value="Nova EC Selecionada?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="vha5stMU4jmWcUVJAuMZ-1">
-          <mxGeometry x="400" y="570" width="100" height="80" as="geometry" />
+          <mxGeometry x="490" y="770" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vha5stMU4jmWcUVJAuMZ-41" value="Recupera Token" style="whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="vha5stMU4jmWcUVJAuMZ-1">
           <mxGeometry x="330" y="710" width="120" height="60" as="geometry" />
@@ -355,7 +355,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vha5stMU4jmWcUVJAuMZ-43" value="Token" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99FFFF;" vertex="1" parent="vha5stMU4jmWcUVJAuMZ-1">
-          <mxGeometry x="140" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="529" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vha5stMU4jmWcUVJAuMZ-46" value="Atualiza dados da EC" style="whiteSpace=wrap;html=1;" vertex="1" parent="vha5stMU4jmWcUVJAuMZ-1">
           <mxGeometry x="300" y="880" width="120" height="60" as="geometry" />
@@ -392,6 +392,9 @@
         </mxCell>
         <mxCell id="vha5stMU4jmWcUVJAuMZ-62" value="Atualiza Regras de Comercialização da EC" style="whiteSpace=wrap;html=1;" vertex="1" parent="vha5stMU4jmWcUVJAuMZ-1">
           <mxGeometry x="810" y="915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vha5stMU4jmWcUVJAuMZ-70" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vha5stMU4jmWcUVJAuMZ-1">
+          <mxGeometry x="680" y="220" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
