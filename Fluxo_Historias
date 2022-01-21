@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T14:34:57.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Po-eZCk1aMM274Uuk5NO" version="16.4.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-21T15:37:58.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZLaf4balLBJKNV0671IX" version="16.4.3" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2142" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -3357,12 +3357,20 @@
         <mxCell id="UBX2DNpcINQMiGKkdb8R-104" value="BIG - Perguntas" style="whiteSpace=wrap;html=1;fillColor=#99FFFF;rounded=0;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
           <mxGeometry x="950" y="3101" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UBX2DNpcINQMiGKkdb8R-105" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="UBX2DNpcINQMiGKkdb8R-1" source="UBX2DNpcINQMiGKkdb8R-106" target="UBX2DNpcINQMiGKkdb8R-108" edge="1">
+        <mxCell id="UBX2DNpcINQMiGKkdb8R-105" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="UBX2DNpcINQMiGKkdb8R-1" source="lPK0uUi5mdRyLxVKZsxO-0" target="UBX2DNpcINQMiGKkdb8R-108" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1010" y="3250" />
+              <mxPoint x="1010" y="3380" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lPK0uUi5mdRyLxVKZsxO-4" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UBX2DNpcINQMiGKkdb8R-105">
+          <mxGeometry x="-0.6411" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPK0uUi5mdRyLxVKZsxO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UBX2DNpcINQMiGKkdb8R-1" source="UBX2DNpcINQMiGKkdb8R-106" target="lPK0uUi5mdRyLxVKZsxO-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-106" value="BIG ID - Valida" style="whiteSpace=wrap;html=1;fillColor=#99FFFF;rounded=0;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
           <mxGeometry x="950" y="3186" width="120" height="60" as="geometry" />
@@ -3371,13 +3379,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-108" value="Caso Criado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
-          <mxGeometry x="723" y="3242" width="120" height="60" as="geometry" />
+          <mxGeometry x="723" y="3412" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-167" value="Não" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="UBX2DNpcINQMiGKkdb8R-1" source="UBX2DNpcINQMiGKkdb8R-110" target="UBX2DNpcINQMiGKkdb8R-165" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-110" value="Abre FAC?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
-          <mxGeometry x="744" y="3330" width="80" height="80" as="geometry" />
+          <mxGeometry x="744" y="3510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-111" value="QUID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
           <mxGeometry x="410" y="-370" width="60" height="30" as="geometry" />
@@ -3414,7 +3422,7 @@
         <mxCell id="UBX2DNpcINQMiGKkdb8R-120" value="FAC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
           <mxGeometry x="-400" y="700" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_2Iu4nmwe4sJeWXpO_ak-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="UBX2DNpcINQMiGKkdb8R-1" source="UBX2DNpcINQMiGKkdb8R-122" target="UBX2DNpcINQMiGKkdb8R-125">
+        <mxCell id="_2Iu4nmwe4sJeWXpO_ak-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="UBX2DNpcINQMiGKkdb8R-1" source="UBX2DNpcINQMiGKkdb8R-122" target="UBX2DNpcINQMiGKkdb8R-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-122" value="Busca URL FAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
@@ -3547,7 +3555,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-165" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
-          <mxGeometry x="960" y="3355" width="30" height="30" as="geometry" />
+          <mxGeometry x="960" y="3535" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-171" value="SALESFORCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
           <mxGeometry x="600" y="-460" width="60" height="30" as="geometry" />
@@ -3575,6 +3583,15 @@
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-186" value="&lt;h1&gt;Integrações&lt;/h1&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&lt;u&gt;&lt;b&gt;Mulesof&lt;/b&gt;: &lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- Busta Nível de Autenticação&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- Busca EC pelo Número Lógico&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- Busca PID Eligibilidade&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- Busca PID Perguntas&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- PID Valida Perguntas&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- Busca BIG ID Eligibilidade&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- Busca BIG ID Proprietario&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- Busca BIG ID Representantes - Promotores&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- Buscar BIG ID Perguntas&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;- BIG ID Valida Respostas&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;- Publica Evento de Contrato.&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;- Assina Evento de Atualização&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;- Recebe Atualização de Conta&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;- Recebe Atualização de Contrato&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-left: 0.375in ; direction: ltr ; unicode-bidi: embed ; margin-top: 0in ; margin-bottom: 0in&quot;&gt;&lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Recebe Atualização das Regras de Comercialização&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Recebe Atualização do Gestor Comercial&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Recebe Hierarquia do Gestor Comercial&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Recebe Endereço do Cliente&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;margin-top: 0 ; margin-bottom: 0 ; vertical-align: middle&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;Recebe Atualização de Domicílio Bancário do EC.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&lt;b&gt;&lt;u&gt;QUID&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;- Recebe Ligação&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;- Envia atualização&lt;br&gt;da Ligação&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;&lt;b&gt;&lt;u&gt;FAC&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;- Busca Token&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-family: &amp;#34;calibri&amp;#34; ; font-size: 11.0pt&quot;&gt;- Busca&lt;br&gt;Funcionalidade&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="UBX2DNpcINQMiGKkdb8R-1" vertex="1">
           <mxGeometry x="-1090" y="-440" width="460" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="lPK0uUi5mdRyLxVKZsxO-3" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UBX2DNpcINQMiGKkdb8R-1" source="lPK0uUi5mdRyLxVKZsxO-0" target="lPK0uUi5mdRyLxVKZsxO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lPK0uUi5mdRyLxVKZsxO-0" value="BIG ID valido?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="UBX2DNpcINQMiGKkdb8R-1">
+          <mxGeometry x="960" y="3280" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lPK0uUi5mdRyLxVKZsxO-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;" vertex="1" parent="UBX2DNpcINQMiGKkdb8R-1">
+          <mxGeometry x="1119" y="3305" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
