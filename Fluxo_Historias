@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T07:41:39.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RgpQdDAh_4TNUP5ogs_y" version="16.2.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-21T07:42:26.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="AZubAxNpG-zb8Q-w7DYk" version="16.2.7" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2142" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2917,7 +2917,7 @@
           <mxGeometry x="820" y="-190" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-14" value="Nível de Autenticação" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99FFFF;" vertex="1" parent="UBX2DNpcINQMiGKkdb8R-1">
-          <mxGeometry x="1682" y="-107" width="170" height="61" as="geometry" />
+          <mxGeometry x="1682" y="-102" width="170" height="61" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="UBX2DNpcINQMiGKkdb8R-1" source="UBX2DNpcINQMiGKkdb8R-17" target="UBX2DNpcINQMiGKkdb8R-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3053,7 +3053,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-43" value="Número Lógico" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99FFFF;" vertex="1" parent="UBX2DNpcINQMiGKkdb8R-1">
-          <mxGeometry x="1679" y="224" width="170" height="60" as="geometry" />
+          <mxGeometry x="1673" y="224" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UBX2DNpcINQMiGKkdb8R-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UBX2DNpcINQMiGKkdb8R-1" source="UBX2DNpcINQMiGKkdb8R-41" target="UBX2DNpcINQMiGKkdb8R-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
